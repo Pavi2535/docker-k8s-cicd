@@ -173,10 +173,4 @@ k8s_prod_scripts/
 * Ensure **NodePort** (`30088`) is allowed in AWS Security Groups for external access.
 * Do not modify the `Dockerfile` or `application.properties` if they are already working.
 
----
 
-## Author
-
-* Developed and maintained by **@sak_shetty**
-
----
